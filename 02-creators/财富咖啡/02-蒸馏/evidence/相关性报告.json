@@ -1,0 +1,199 @@
+{
+  "note": "Pearson r on log10(play). n=7 (6 after removing the 15.2x outlier); NOT statistically significant, descriptive direction only.",
+  "play_median": 52059,
+  "outlier": {
+    "bvid": "BV13iWT6NEWT",
+    "play": 791277,
+    "play_norm": 15.2,
+    "hot_intensity": "high",
+    "why": "全网级热点 + 15.2x 中位数，写法贡献与事件热度无法分离，不得单独作为风格基准"
+  },
+  "correlation": {
+    "情绪极端": {
+      "r_all_n7": 0.399,
+      "r_without_outlier_n6": 0.043
+    },
+    "时间压迫": {
+      "r_all_n7": 0.807,
+      "r_without_outlier_n6": 0.62
+    },
+    "观众点名": {
+      "r_all_n7": 0.132,
+      "r_without_outlier_n6": 0.469
+    },
+    "反转推翻": {
+      "r_all_n7": 0.33,
+      "r_without_outlier_n6": 0.226
+    },
+    "认知承诺": {
+      "r_all_n7": 0.638,
+      "r_without_outlier_n6": 0.595
+    },
+    "互动指令": {
+      "r_all_n7": 0.463,
+      "r_without_outlier_n6": 0.251
+    },
+    "结构推进": {
+      "r_all_n7": 0.362,
+      "r_without_outlier_n6": 0.759
+    },
+    "落到个人": {
+      "r_all_n7": 0.0,
+      "r_without_outlier_n6": 0.274
+    },
+    "numbers": {
+      "r_all_n7": 0.217,
+      "r_without_outlier_n6": 0.701
+    },
+    "authorities": {
+      "r_all_n7": 0.658,
+      "r_without_outlier_n6": 0.614
+    },
+    "cpm": {
+      "r_all_n7": 0.344,
+      "r_without_outlier_n6": 0.143
+    }
+  },
+  "rows": [
+    {
+      "bvid": "BV13iWT6NEWT",
+      "title": "教科书级断臂求生！十天前死不承认的黄仁勋，为何连夜自毁人设？",
+      "play": 791277,
+      "play_norm": 15.2,
+      "hot_intensity": "high",
+      "hot_note": "黄仁勋出轨/辞职，全网科技+娱乐双热点，11-08 爆发、11-10 发布",
+      "log_play": 5.898,
+      "情绪极端": 6.6,
+      "时间压迫": 3.3,
+      "观众点名": 7.51,
+      "反转推翻": 8.08,
+      "认知承诺": 2.28,
+      "互动指令": 0.91,
+      "结构推进": 3.3,
+      "落到个人": 0.68,
+      "numbers": 28,
+      "authorities": 72,
+      "cpm": 354.4
+    },
+    {
+      "bvid": "BV1frxX6LEsA",
+      "title": "马斯克4.5亿惨败？两院全面沦陷，川普未来两年将如何疯狂报复？",
+      "play": 80303,
+      "play_norm": 1.54,
+      "hot_intensity": "high",
+      "hot_note": "美国中期选举，全国性政治事件，11-04 发布",
+      "log_play": 4.905,
+      "情绪极端": 6.62,
+      "时间压迫": 2.32,
+      "观众点名": 8.36,
+      "反转推翻": 4.99,
+      "认知承诺": 1.97,
+      "互动指令": 0.46,
+      "结构推进": 3.13,
+      "落到个人": 0.46,
+      "numbers": 66,
+      "authorities": 105,
+      "cpm": 354.3
+    },
+    {
+      "bvid": "BV12WMn6dEVp",
+      "title": "狂扫48万盎司！黄金暴跌12%，华尔街全在逃命，中国央行却逆势加码？揭密7月7日香港暗盘，绕开美元的恐怖阳谋!",
+      "play": 63163,
+      "play_norm": 1.21,
+      "hot_intensity": "medium",
+      "hot_note": "黄金暴跌与央行增持，财经垂类热点",
+      "log_play": 4.8,
+      "情绪极端": 1.14,
+      "时间压迫": 2.94,
+      "观众点名": 9.48,
+      "反转推翻": 8.34,
+      "认知承诺": 1.14,
+      "互动指令": 0.16,
+      "结构推进": 4.41,
+      "落到个人": 1.47,
+      "numbers": 112,
+      "authorities": 32,
+      "cpm": 349.3
+    },
+    {
+      "bvid": "BV1thtU6WEit",
+      "title": "新版《国防动员法》来了，战时金融网络12行业全管制！",
+      "play": 52059,
+      "play_norm": 1.0,
+      "hot_intensity": "medium",
+      "hot_note": "新版国防动员法，政策发布型",
+      "log_play": 4.716,
+      "情绪极端": 4.43,
+      "时间压迫": 2.73,
+      "观众点名": 19.61,
+      "反转推翻": 9.38,
+      "认知承诺": 2.73,
+      "互动指令": 1.19,
+      "结构推进": 4.26,
+      "落到个人": 4.26,
+      "numbers": 39,
+      "authorities": 6,
+      "cpm": 349.7
+    },
+    {
+      "bvid": "BV1BL8J6fEnH",
+      "title": "普京登岛，东北亚再生变局！中国为何曾力挺日本夺岛？揭开北方四岛背后的死亡牌局",
+      "play": 38165,
+      "play_norm": 0.73,
+      "hot_intensity": "medium",
+      "hot_note": "普京登岛 / 北方四岛，地缘事件",
+      "log_play": 4.582,
+      "情绪极端": 4.54,
+      "时间压迫": 1.82,
+      "观众点名": 9.6,
+      "反转推翻": 4.93,
+      "认知承诺": 1.43,
+      "互动指令": 0.65,
+      "结构推进": 3.5,
+      "落到个人": 0.52,
+      "numbers": 33,
+      "authorities": 13,
+      "cpm": 354.8
+    },
+    {
+      "bvid": "BV1BV3w6aEeb",
+      "title": "从大萧条到2008，所有债务危机都在重复同一条路径 | 《债务危机》",
+      "play": 20710,
+      "play_norm": 0.4,
+      "hot_intensity": "low",
+      "hot_note": "《债务危机》书籍解读，无时效事件",
+      "log_play": 4.316,
+      "情绪极端": 1.06,
+      "时间压迫": 1.77,
+      "观众点名": 3.71,
+      "反转推翻": 8.12,
+      "认知承诺": 0.88,
+      "互动指令": 0.18,
+      "结构推进": 3.18,
+      "落到个人": 0.53,
+      "numbers": 10,
+      "authorities": 14,
+      "cpm": 342.5
+    },
+    {
+      "bvid": "BV1PzHa6pEH8",
+      "title": "日本制造跌落神坛：从工匠到“躬匠”，一场输掉三十年的慢性自杀",
+      "play": 7836,
+      "play_norm": 0.15,
+      "hot_intensity": "low",
+      "hot_note": "日本制造衰落，长青话题",
+      "log_play": 3.894,
+      "情绪极端": 5.21,
+      "时间压迫": 1.95,
+      "观众点名": 6.23,
+      "反转推翻": 5.21,
+      "认知承诺": 0.93,
+      "互动指令": 0.37,
+      "结构推进": 2.14,
+      "落到个人": 0.74,
+      "numbers": 17,
+      "authorities": 2,
+      "cpm": 353.1
+    }
+  ]
+}
